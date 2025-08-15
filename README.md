@@ -3,9 +3,14 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanj_ana27_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-n-a99b35371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eng22cs0151@dsu.edu.in) 
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/Sanj-ana_123/)
-[![GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png)](https://www.geeksforgeeks.org/user/sanj270trum/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile)
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile">
+  <img height="28" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
 
 
 
