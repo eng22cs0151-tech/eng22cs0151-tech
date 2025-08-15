@@ -3,9 +3,12 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanj_ana27_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-n-a99b35371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eng22cs0151@dsu.edu.in) 
-[![LeetCode - sanjana_123](https://img.shields.io/badge/LeetCode-sanjana__123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sanjana_123/)
-[![GeeksforGeeks - SanjanaN](https://img.shields.io/badge/GeeksforGeeks-SanjanaN-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/SanjanaN/profile)
-
+<a href="https://leetcode.com/u/Sanj-ana_123/">
+  <img height="21" src="https://img.shields.io/badge/LeetCode-Sanj--ana__123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+<a href="https://www.geeksforgeeks.org/user/sanj270trum/">
+  <img height="21" src="https://img.shields.io/badge/GeeksforGeeks-sanj270trum-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
 
 
 
